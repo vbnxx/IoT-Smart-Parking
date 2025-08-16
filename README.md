@@ -13,6 +13,7 @@ The program measures the distance and publishes the parking spot status (`occupi
 ## 🛠 Requirements
 - Raspberry Pi (e.g. 3B/4)
 - HC-SR04 ultrasonic sensor
+- 2 resistors
 - Python 3
 - Installed libraries:
   ```bash
